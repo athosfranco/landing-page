@@ -1,2 +1,2 @@
-# landing-page
-I built this landing page for a fictional company in order to practice my HTML and CSS3 skills. It's fully responsive. It's my second web page.
+# landing-page-guitar-company
+I built this Landing Page in order to practice HTML, CSS3, form design and responsiveness. It is the second web page i build. (13/01/2021)
